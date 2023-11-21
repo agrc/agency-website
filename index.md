@@ -2,7 +2,7 @@
 
 ## Pillars
 
-| Products | Solutions | Collaboration |
+| [Products](pillars/products/index.md) | [Solutions](pillars/solutions/index.md) | [Collaboration](pillars/collaboration/index.md) |
 |----------|----------|----------|
 |          |          |          |
 
