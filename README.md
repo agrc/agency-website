@@ -1,6 +1,6 @@
 # agency-website
 
-content for our website restrucure
+content for our website restructure
 
 ## Getting started
 
