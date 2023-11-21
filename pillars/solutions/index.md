@@ -7,7 +7,9 @@
 |          |          |          |
 
 ## Popular Resources
-For Surveyors | For Emergency Response
+
+- For Surveyors 
+- For Emergency Response
 
 ## More Resources
 
