@@ -1,3 +1,6 @@
-Use the same intro as the old website.  https://gis.utah.gov/discover/
-Essentially follow the flow of the information on that page.  
+# State of Utah Aerial Imagery Collection and Streaming Service
+- Introduce the history of UGRC and imagery
+- Explain licensed and unlicensed
+- Do we also mention lidar and raster.utah.gov
+- Link out to status pages for completness of coverage
 
