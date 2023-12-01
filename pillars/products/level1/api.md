@@ -1,2 +1,5 @@
  # The UGRC Web API
- ## I am outlining!  
+ 
+
+Explain and link to the API client, geocoder toolbox and web service
+link out to the getting started guide
