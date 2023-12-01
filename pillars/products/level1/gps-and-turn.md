@@ -1,2 +1,5 @@
-<H1>The Utah Reference Network</H1>
-<p>The Utah Reference Network (TURN) GPS is a GNSS network of permanently located GPS receivers, installed across the state, to generate real time high accuracy GPS positioning. TURN GPS uses the Trimble PIVOT VRS Platform. TURN GPS is used for a range of precision GPS applications including surveying, engineering, construction, and GIS data collection. The current cost is $600 for each user login and is good for a full year from the sign up date. The Coordinate Reference Frame for this network is <b>NAD83(2011)(EPOCH:2010.0000.)</b>. The Latitude, Longitude and Ellipsoidal Height of each reference station was calculated by processing 24 hour files using the National Geodetic Survey (NGS) Online Positioning User Service (OPUS) Projects application.</p>
+# The Utah Reference Network
+  
+First describe the network generally
+give information about Datums etc that the network uses
+give 
