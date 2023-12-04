@@ -1,1 +1,1 @@
-### How to print from ArcGIS Online applications
+### How to use the UGRC geocoder from ArcGIS Online applications
