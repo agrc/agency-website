@@ -9,7 +9,7 @@
 ## Popular Resources
 
 - [For the bored](level-1/time-sensitive.md)
-- For Emergency Response
+- For Emergency Response from reading this
 
 ## More Resources
 
