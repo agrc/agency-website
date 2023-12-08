@@ -1,4 +1,4 @@
-# some of the people we collaborate with
+## Our community of partners level 2 page
 - UGIC
 - NSGIC
 - GISAC
