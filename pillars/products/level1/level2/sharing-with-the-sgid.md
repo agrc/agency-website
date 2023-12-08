@@ -1,3 +1,5 @@
-### Share your data in the State Geographic Information Datasource
-- Rules of engagement
-- 
+# Sharing your data
+### In this section
+### The SGID, a community effort
+- walk through the current Sharing page on our website
+
