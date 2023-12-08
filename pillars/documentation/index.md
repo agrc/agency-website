@@ -2,13 +2,13 @@
 
 ## Most Popular Level 1 Pages
 
-| Government | GIS Users | Application Developers |
+| Web API | Discover | GPS |
 |----------|----------|----------|
-| [Read More](level-1/government.md) |          |          |
+| [Read More](level-1/web-api.md) |          |          |
 
 ## Popular Resources
 
-- [For Surveyors](level-1/for-surveyors.md)
+- [For Developers](level-1/custom-development.md)
 - For Emergency Response
 
 ## More Resources
