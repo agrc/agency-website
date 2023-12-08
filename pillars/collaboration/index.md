@@ -2,13 +2,13 @@
 
 ## Most Popular Level 1 Pages
 
-| Government | GIS Users | Application Developers |
+| Community | Events | Resources |
 |----------|----------|----------|
-| [Read More](level-1/government.md) |          |          |
+| [Read More](level-1/community.md) |          |          |
 
 ## Popular Resources
 
-- [For Surveyors](level-1/for-surveyors.md)
+- [Maps on the hill](level-2/maps-on-the-hill.md)
 - For Emergency Response
 
 ## More Resources
