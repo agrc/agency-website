@@ -4,7 +4,7 @@
 
 | Contributing to the website | Media Resources | Statutes |
 |----------|----------|----------|
-| [Read More](level-1/about.md) |[Read More]          |          |
+| [Read More](level-1/about.md) |[Read More](level-2/media-resources.md)|          |
 
 ## Popular Resources
 
