@@ -4,11 +4,11 @@
 
 | Government | GIS Users | Application Developers |
 |----------|----------|----------|
-| [Read More](level-1/government.md) |          |          |
+| [Read More](level-1/time-sensitive.md)        |
 
 ## Popular Resources
 
-- [For Surveyors](level-1/for-surveyors.md)
+- [For the bored](level-1/time-sensitive.md)
 - For Emergency Response
 
 ## More Resources
