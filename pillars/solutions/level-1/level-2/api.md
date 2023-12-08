@@ -2,4 +2,4 @@
 - Go right to geocoding API methods etc.
 - Search API methods
 - SGID info API methods
-- Getting a an API key and housekeeping
+- Getting an API key and housekeeping
