@@ -4,7 +4,7 @@
 
 | SGID | Discover | TURN |
 |----------|----------|----------|
-|          |          |          |
+| [Read More](sgid.md)         |          |          |
 
 ## Popular Resources
 
