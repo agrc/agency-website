@@ -2,7 +2,7 @@
 
 ## Most Popular Level 1 Pages
 
-| Government | GIS Users | Application Developers |
+| Contributing to the website | Media Resources | Statutes |
 |----------|----------|----------|
 | [Read More](level-1/government.md) |          |          |
 
