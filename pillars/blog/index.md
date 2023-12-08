@@ -2,7 +2,7 @@
 
 ## Most Popular Level 1 Pages
 
-| Easy Reading | The Hip Crowd | Silly Articles |
+| Time Sensitive | The Hip Crowd | Silly Articles |
 |----------|----------|----------|
 | [Read More](level-1/time-sensitive.md)        |
 
