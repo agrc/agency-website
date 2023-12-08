@@ -4,11 +4,11 @@
 
 | Contributing to the website | Media Resources | Statutes |
 |----------|----------|----------|
-| [Read More](level-1/government.md) |          |          |
+| [Read More](level-1/about.md) |          |          |
 
 ## Popular Resources
 
-- [For Surveyors](level-1/for-surveyors.md)
+- [For the Media](level-1/for-media-resources.md)
 - For Emergency Response
 
 ## More Resources
