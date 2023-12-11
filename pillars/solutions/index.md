@@ -1,6 +1,6 @@
 # Solutions pillar page
 
-## Most Popular Level 1 Pages
+## Most Popular
 
 | Government | GIS Users | Application Developers |
 |----------|----------|----------|

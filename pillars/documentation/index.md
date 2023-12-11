@@ -1,10 +1,10 @@
 # Documentation pillar page
 
-## Most Popular Level 1 Pages
+## Most Populars
 
 | Web API | Discover | GPS |
 |----------|----------|----------|
-| [Read More](level-1/web-api.md) |          |          |
+| [Read More](level-1/web-api.md) | [Read More](level-1/discover.md) | [Read More](level-1/gps.md) |
 
 ## Popular Resources
 

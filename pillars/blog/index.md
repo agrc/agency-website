@@ -1,10 +1,10 @@
 # Blog pillar page
 
-## Most Popular Level 1 Pages
+## Most Populars
 
 | Time Sensitive | The Hip Crowd | Silly Articles |
 |----------|----------|----------|
-| [Read More](level-1/time-sensitive.md)        |
+| [Read More](level-1/time-sensitive.md) | | |
 
 ## Popular Resources
 

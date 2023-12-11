@@ -1,10 +1,10 @@
 # About pillar page
 
-## Most Popular Level 1 Pages
+## Most Populars
 
 | Contributing to the website | Media Resources | Statutes |
 |----------|----------|----------|
-| [Read More](level-1/about.md) |[Read More](level-1/media-resources.md)|[Read More](level-1/statutes.md)           |
+| [Read More](level-1/about.md) | [Read More](level-1/media-resources.md) | [Read More](level-1/statutes.md) |
 
 ## Popular Resources
 

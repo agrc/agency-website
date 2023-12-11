@@ -1,3 +1,3 @@
-# GIS Users Level 1 page
+# GIS Users
 
 - What is needed here

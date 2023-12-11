@@ -1,2 +1,9 @@
-# UGRC in Statute (state code) level 1 page
-- Other info
+# UGRC in Statute (state code)
+
+## Statutes
+
+- list and link to statutes
+
+## Other info
+
+- ?

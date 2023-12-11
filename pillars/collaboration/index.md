@@ -1,10 +1,10 @@
 # Collaboration pillar page
 
-## Most Popular Level 1 Pages
+## Most Populars
 
 | Community | Events | Resources |
 |----------|----------|----------|
-| [Read More](level-1/community.md) |          |          |
+| [Read More](level-1/community.md) | [Read More](level-1/events.md) | [Read More](level-1/resources.md) |
 
 ## Popular Resources
 
