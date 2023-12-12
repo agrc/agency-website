@@ -1,4 +1,4 @@
-# UGRC's gateway to data and services, the API client
+# API client
 
 - Introduce the API client and other ways to access the web services
 - Introductory blog post
