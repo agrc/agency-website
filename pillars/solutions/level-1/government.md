@@ -2,11 +2,11 @@
 
 ## Solutions
 
-### Understanding how location affects us all
+### Are you looking for answers but cannot visualize your data to see them?
 
 UGRC has many solutions to offer state agencies in helping them map location data from their agency
 
-### UGRC data efforts
+### UGRC has done the hard work for you
 
 UGRC aggregates data from the cities and counties of Utah. This data can be used in support of agency business goals
 
