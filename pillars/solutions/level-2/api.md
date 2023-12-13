@@ -1,6 +1,6 @@
-# UGRC web API explorer
+# UGRC web API
 
-## UGRCs premier Web API explorer
+## UGRCs premier Web API
 
 - Introduction to the Web API explorer
 
