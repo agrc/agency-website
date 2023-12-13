@@ -12,7 +12,7 @@ UGRC aggregates data from the cities and counties of Utah. This data can be used
 
 ### Resouces
 
-There are many resources for people to help in this effort such as the intro to our [Web API](/level-2/api.md) and the Web API desktop client
+There are many resources for people to help in this effort such as the intro to our [Web API](api.md) and the Web API desktop client
 
 ### You might also like
 
