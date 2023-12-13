@@ -16,4 +16,14 @@ Check out our introductory blog post and our getting started video.
 
 ## Development Specifics
 
-## Certificates
+### Certificates
+
+
+An apple developer certificate is required to sign the application for distribution.
+
+Using keychain's certificate assistant, request a certificate from a certificate authority.
+Leave CA Email address empty
+Request is Saved to diskProvide the certificate request to Certificates, Identifiers & Profiles to create a Developer ID Certificate
+Only the account holder of the Developer Group can create this type of certificate.
+Import the certificate to keychain and then export it as a p12 file for the deployment pipeline.
+Store the password required for exporting for the GitHub Actions secrets.
