@@ -8,7 +8,7 @@ UGRC has many solutions to offer state agencies in helping them map location dat
 
 ### UGRC has done the hard work for you
 
-UGRC aggregates data from the cities and counties of Utah. This data can be used in support of agency business goals
+UGRC aggregates data such as roads and address points from the cities and counties of Utah. This data can be used to geolocate your data for further analysis.
 
 ### Resources
 
