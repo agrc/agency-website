@@ -1,5 +1,7 @@
 # Government
 
+What is at an address, what is nearby
+Enriching data - 
 a note, we need 3-4 nice hooks for this section......some pain points.  Think of what we have done for folks figure out how to write them as pain points - solution.  like getting the data out of salesforce to load into AGOL etc.
 
 We will have two buttons below each pain point - solution. the first button is the preferred path we want them to take.  The second button is just more reading.  We are always trying to push people into the preferred action (first button)  all the detail will be some on the product page, and probably a significant amount on the documentation section
