@@ -1,6 +1,6 @@
 # Government
 
-What is at an address, what is nearby
+What is at an address, what is nearby, location awareness
 Enriching data - 
 a note, we need 3-4 nice hooks for this section......some pain points.  Think of what we have done for folks figure out how to write them as pain points - solution.  like getting the data out of salesforce to load into AGOL etc.
 
