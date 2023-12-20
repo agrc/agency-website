@@ -16,6 +16,10 @@ where you go to school
 who you pay your taxes to
 where to vote
 
+Take them to a page to do it themselves.
+chat with an agent
+  a DIY button would really expand their choices
+
 ### Find other stuff based on location 
 
 ### enrich my data or answer a question about my data  We can tell you about you about your location.
