@@ -11,6 +11,12 @@ We will have two buttons below each pain point - solution. the first button is t
 ### Are you looking for answers but cannot visualize your data to see them? Pain point is still cannot visualize data
 larger government problem.
 
+### Find other stuff based on location 
+
+### enrich my data or answer a question about my data  We can tell you about you about your location.
+
+
+
 UGRC has many solutions to offer state agencies in helping them map location data from their agency
 
 ### UGRC has done the hard work for you - turn into pain point
