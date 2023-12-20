@@ -9,7 +9,12 @@ We will have two buttons below each pain point - solution. the first button is t
 ## Solutions
 
 ### Are you looking for answers but cannot visualize your data to see them? Pain point is still cannot visualize data
-larger government problem.
+larger government problem
+
+### we can tell you information about your location.
+where you go to school
+who you pay your taxes to
+where to vote
 
 ### Find other stuff based on location 
 
