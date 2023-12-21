@@ -1,6 +1,6 @@
-# Blog pillar page
+# Blog
 
-## Most Populars
+## Most Popular
 
 | Time Sensitive | The Hip Crowd | Silly Articles |
 |----------|----------|----------|

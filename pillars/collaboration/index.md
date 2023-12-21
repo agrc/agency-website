@@ -1,6 +1,6 @@
-# Collaboration pillar page
+# Collaboration
 
-## Most Populars
+## Most Popular
 
 | Community | Events | Resources |
 |----------|----------|----------|
@@ -9,7 +9,7 @@
 ## Popular Resources
 
 - [Maps on the hill](level-2/maps-on-the-hill.md)
-- For Emergency Response
+- UGIC
 
 ## More Resources
 

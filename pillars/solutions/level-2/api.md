@@ -1,8 +1,6 @@
-# UGRC web API
+# UGRC API
 
-## UGRCs premier Web API
-
-- Introduction to the Web API explorer
+- Introduce to the API
 
 ## Entry points and paths for using the API
 
@@ -10,7 +8,6 @@
 - Search API methods
 - SGID info API methods
 
-## Signing up and other info.
+## Signing up and other info
 
 - Getting an API key and housekeeping
-

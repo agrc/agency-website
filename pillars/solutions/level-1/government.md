@@ -3,14 +3,27 @@
 ## Brainstorming
 
 - What is at an address, what is nearby, location awareness
-- Enriching data 
+- Enriching data
 
 > [!NOTE]
-> we need 3-4 nice hooks for this section......some pain points. Think of what we have done for folks figure out how to write them as pain points - solution. like getting the data out of salesforce to load into AGOL etc.
+> In my opinion the government page should be our main marketing page towards other state agencies. It can be something we share with agencies to drum up work. We should highlight the solutions we are providing to other stage agencies here to let them know what they could also be doing.
+>
+> Some ideas could be
+>
+> data transparency (deq enviro makes deq agency data visible, palletjack takes data out of secure places and makes it public in AGOL, etc)
+> application development (WRI, WFRC, UDOT, TowerScout, experience builder apps)
+> geocoding (Unclaimed property, schools?, etc)
+> analysis (Broadband, etc)
+> cartography, large scale printing
+> data aggregation (roads, address points, etc)
+> maybe link to emergency response?
 
 ## Design Guidance
 
 We will have two buttons below each pain point - solution. The first button is the preferred path we want them to take. The second button is just more reading. We are always trying to push people into the preferred action (first button) all the detail will be some on the product page, and probably a significant amount on the documentation section
+
+> [!NOTE]
+> we need 3-4 nice hooks for this section......some pain points. Think of what we have done for folks figure out how to write them as pain points - solution. like getting the data out of salesforce to load into AGOL etc.
 
 ## Hooks
 
@@ -40,10 +53,10 @@ UGRC has many solutions to offer state agencies in helping them map location dat
 
 ### UGRC has done the hard work for you - turn into pain point
 
- UGRC aggregates data such as roads and address points from the cities and counties of Utah. This data can be used to geolocate your data for further analysis. 
+ UGRC aggregates data such as roads and address points from the cities and counties of Utah. This data can be used to geolocate your data for further analysis.
 
  Call to action button (main goal)  we can solve it go here, or we can solve it with this product or contact us
- 
+
 ### Resources
 
 There are many resources for people to help in this effort such as the intro to our [Web API](/api.md) and the Web API desktop client. UGRC also has a large repository of imagery and lidar that may help in your efforts

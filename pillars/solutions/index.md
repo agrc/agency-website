@@ -1,10 +1,10 @@
-# Solutions pillar page
+# Solutions
 
 ## Most Popular
 
 | Government | GIS Users | Application Developers |
 |----------|----------|----------|
-| [Read More](level-1/government.md) | [Read More](level-1/gis-users.md)  | [Read More](level-1/application-developers.md)         |
+| [Read More](level-1/government.md) | [Read More](level-1/gis-users.md) | [Read More](level-1/application-developers.md) |
 
 ## Popular Resources
 

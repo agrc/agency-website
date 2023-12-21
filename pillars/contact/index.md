@@ -1,10 +1,13 @@
-# Contact pillar page
+# Contact
 
-## Most Populars
+> [!NOTE]
+> Do we want a mail form here or continue to provide head shots and individual contact information for each employee
+
+## Most Popular
 
 | Staff | Directions and Parking | |
 |----------|----------|----------|
-| [Read More](level-1/staff.md) |[Read More](level-1/directions-and-parking.md) |          |
+| [Read More](level-1/staff.md) | [Read More](level-1/directions-and-parking.md) | |
 
 ## Popular Resources
 

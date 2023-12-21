@@ -8,4 +8,6 @@
 
 ## Latest News
 
+3 latest blog posts
+
 ## You might also like

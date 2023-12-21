@@ -1,6 +1,6 @@
-# Products pillar page
+# Products
 
-## Most Populars
+## Most Popular
 
 | SGID | Discover | TURN |
 |----------|----------|----------|
