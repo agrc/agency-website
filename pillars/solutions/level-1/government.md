@@ -10,13 +10,13 @@
 >
 > Some ideas could be
 >
-> data transparency (deq enviro makes deq agency data visible, palletjack takes data out of secure places and makes it public in AGOL, etc)
-> application development (WRI, WFRC, UDOT, TowerScout, experience builder apps)
-> geocoding (Unclaimed property, schools?, etc)
-> analysis (Broadband, etc)
-> cartography, large scale printing
-> data aggregation (roads, address points, etc)
-> maybe link to emergency response?
+> - data transparency (deq enviro makes deq agency data visible, palletjack takes data out of secure places and makes it public in AGOL, etc)
+> - application development (WRI, WFRC, UDOT, TowerScout, experience builder apps)
+> - geocoding (Unclaimed property, schools?, etc)
+> - analysis (Broadband, etc)
+> - cartography, large scale printing
+> - data aggregation (roads, address points, etc)
+> - maybe link to emergency response?
 
 ## Design Guidance
 
