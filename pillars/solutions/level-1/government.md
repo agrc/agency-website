@@ -6,7 +6,7 @@
 - Enriching data
 
 > [!NOTE]
-> In my opinion the government page should be our main marketing page towards other state agencies. It can be something we share with agencies to drum up work. We should highlight the solutions we are providing to other stage agencies here to let them know what they could also be doing.
+> In my opinion the government page should be our main marketing page towards other state agencies. It can be something we share with agencies to drum up work. We should highlight the solutions we are providing to other stage agencies here to let them know what they could also be doing. Yes, very true, main marketing for sure.  Your ideas all seem valid, however I feel the real challenge is the art of telling the stories you have below, how can they be told in a compelling and appealing fashion. For me personally the term data transparency just sounds like a bunch of ideas hiding behind words, but I feel like it is super valid to expose agency data, there must be a colorful way to tell that story in a line or two.
 >
 > Some ideas could be
 >
