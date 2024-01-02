@@ -2,8 +2,8 @@
 
 - What goes here
 
-  > [!NOTE]
-  > - Surveyors
+> [!NOTE]
+> - Surveyors
 > - Collaboration - PLSS MRRC
 > - Resources - plss.utah.gov, parcels.utah.gov
 > - Surveyors - TURN
